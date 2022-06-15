@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1215" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_home_screen.xml" value="0.33" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_main.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_new_user.xml" value="0.22" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_send_to_user_list.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_transaction_history.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_user_data.xml" value="0.33" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_user_list.xml" value="0.1" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_view_userdata.xml" value="0.16802536231884058" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/activity_view_userlist.xml" value="0.16802536231884058" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/dialogbox.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/transaction_history_item.xml" value="0.33" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/layout/user_list_item.xml" value="0.21" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/mipmap-anydpi-v26/app_icon_1.xml" value="0.1" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/mipmap/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/prathmesha/AndroidStudioProjects/bankingapp/app/src/main/res/xml/ic_launcher_foreground.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

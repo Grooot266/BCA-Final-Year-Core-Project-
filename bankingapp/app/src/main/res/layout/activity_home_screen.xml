@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.HomeScreen">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/aldrich"
+        android:text="Welcome to Android Banking system"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/iv1"
+        android:layout_width="500dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/bank"
+
+        />
+
+    <Button
+        android:id="@+id/all_users"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/view_users"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="#70000000"
+
+        android:fontFamily="@font/aldrich"
+        android:text="Make Payment "
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:strokeColor="@color/black"
+        app:strokeWidth="5px" />
+
+    <Button
+        android:id="@+id/view_users"
+        android:layout_width="180dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/tv1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="#70000000"
+        android:fontFamily="@font/aldrich"
+        android:text="View Users"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:strokeColor="@color/black"
+        app:strokeWidth="5px" />
+
+    <Button
+        android:id="@+id/all_transaction"
+        android:layout_width="225dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/all_users"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="#70000000"
+        android:fontFamily="@font/aldrich"
+        android:text="Recent Transaction"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:strokeColor="@color/black"
+        app:strokeWidth="5px" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/all_transaction"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="#70000000"
+        android:fontFamily="@font/aldrich"
+        android:text="Logout"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:strokeColor="@color/black"
+        app:strokeWidth="5px" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/logout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="#70000000"
+        android:fontFamily="@font/aldrich"
+        android:text="Exit"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:strokeColor="@color/black"
+        app:strokeWidth="5px" />
+
+
+</RelativeLayout>
